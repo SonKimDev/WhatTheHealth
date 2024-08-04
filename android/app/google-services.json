@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496985302412",
+    "project_id": "whatthehealthph21573",
+    "storage_bucket": "whatthehealthph21573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496985302412:android:7f24038271072fc944e2a9",
+        "android_client_info": {
+          "package_name": "com.sonkim.whatthehealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD14RqMaQtMWh3ayHsFazMyE3awCDuxoR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
